@@ -8,7 +8,7 @@
 
 zkSync is a scaling and privacy engine for Ethereum. Its current functionality scope includes low gas transfers of ETH
 and ERC20 tokens in the Ethereum network.
-
+gf
 ## Description
 
 zkSync is built on ZK Rollup architecture. ZK Rollup is an L2 scaling solution in which all funds are held by a smart
